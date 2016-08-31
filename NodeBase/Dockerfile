@@ -1,4 +1,4 @@
-FROM selenium/base:2.53.1
+FROM marozsiandras/base:latest
 MAINTAINER Selenium <selenium-developers@googlegroups.com>
 
 ENV DEBIAN_FRONTEND noninteractive
