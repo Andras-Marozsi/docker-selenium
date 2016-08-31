@@ -1,4 +1,4 @@
-FROM marozsiandras/base:latest
+FROM marozsiandras/selenium-base:latest
 MAINTAINER Selenium <selenium-developers@googlegroups.com>
 
 #========================

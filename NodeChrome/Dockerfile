@@ -1,4 +1,4 @@
-FROM marozsiandras/node-base:latest
+FROM marozsiandras/selenium-nodebase:latest
 MAINTAINER Selenium <selenium-developers@googlegroups.com>
 
 USER root
